@@ -1,0 +1,39 @@
+html, body {
+  text-align: center;
+}
+html {
+  background: #fbdb5c;
+}
+
+blue {
+  color: #595fff;
+}
+
+red {
+  color: #ff3b3b;
+}
+
+tr, th {
+  width: 128px;
+  height: 128px;
+  border-top: 10px solid black;
+  border-left: 10px solid black;
+  margin: 0px;
+  padding: 0px;
+  cursor: pointer;
+}
+
+#s1, #s2, #s3 {
+  border-top: 0px solid black;
+}
+
+#s1, #s4, #s7 {
+  border-left: 0px solid black;
+}
+
+#board {
+}
+
+#holder {
+  text-align: center;
+}
